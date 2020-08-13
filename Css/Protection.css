@@ -1,0 +1,71 @@
+body, html{
+    height: 850px;
+}
+
+body{
+    background-image: url("../Images/Background-vici.jpeg");
+    background-blend-mode: multiply;
+    background-color: darkturquoise;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+#form-input{
+    margin-left: 10%;
+    margin-top: 3%;
+}
+#form-input input{
+    font-size: 1.1em;
+}
+
+.btn{
+    width: 7%;
+    float: left;
+    border-radius: 5px;
+    padding: 5px 9px;
+    font-size: 1.2em;
+    background-color: #6f42c1;
+    text-shadow: black;
+    cursor: pointer;
+    color: #34ce57;
+    font-family:'Rubik', sans-serif;
+    margin-bottom: 10%;
+}
+
+#send-mess{
+    margin-top: 0.5%;
+
+}
+.btn:hover{
+    background-color: #e83e8c;
+}
+
+.text-button-sub{
+    margin-left: 8%;
+}
+
+#form-input span{
+    color: #6f42c1;
+}
+
+#form-input-new{
+    margin-left: 18%;
+    margin-top: 10%;
+}
+
+#form-input-new span{
+    color: #6f42c1;
+}
+
+.text-button-sub-new{
+    margin-left: 7%;
+}
+
+#form-input-new input{
+    font-size: 1.1em;
+}
+
+#send-mess-new{
+    margin-top: 0.7%;
+}
